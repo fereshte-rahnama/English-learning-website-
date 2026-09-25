@@ -1,103 +1,67 @@
 # English Learning Website
 
-A simple and responsive English learning website created as a **frontend practice project using HTML5 and CSS3**.
+A responsive English learning website created as a **frontend practice project**.
 
-🔗 **Live Demo:**
-https://fereshte-rahnama.github.io/English-learning-website-/
+This project was designed to practice HTML and CSS, responsive layouts, navigation systems, mega menus, cards, forms, and modern educational website UI. It is a demo project and does not represent a real English-learning platform.
 
----
+## Live Demo
 
-## 📌 About The Project
+[View Live Demo](YOUR-LIVE-DEMO-LINK)
 
-This project is a sample English learning website created to practice building a structured and responsive web interface using **HTML and CSS**.
+## Technologies Used
+
+* HTML5
+* CSS3
+* Flexbox
+* CSS Grid
+* Responsive Design
+* Media Queries
+* Google Fonts
+* Boxicons
+
+## Features
+
+* Responsive navigation
+* Mega menu navigation
+* Hero section
+* Course categories
+* Course cards
+* Speaking practice section
+* Learning resources section
+* Testimonials
+* Call-to-action sections
+* Contact/form UI
+* Responsive footer
+* Mobile-friendly layout
+
+## Project Purpose
 
 The main purpose of this project was to practice:
 
-* Structuring web pages with HTML
-* Creating layouts with CSS
-* Designing a clean and user-friendly interface
-* Working with sections, cards, and navigation
-* Creating responsive layouts for different screen sizes
-* Using CSS media queries for responsive design
+* Building multi-section websites with HTML and CSS
+* Creating responsive layouts
+* Working with Flexbox and CSS Grid
+* Designing navigation and mega menus
+* Creating reusable card-based UI sections
+* Improving spacing, typography, and visual hierarchy
+* Building a responsive educational website interface
 
-This project is mainly intended for **learning and frontend practice**.
+## Project Structure
 
----
-
-## ✨ Features
-
-* 📚 English learning themed design
-* 📱 Responsive layout
-* 🎨 Clean and simple user interface
-* 🧭 Navigation menu
-* 📖 Learning content sections
-* 💻 Desktop-friendly layout
-* 📱 Mobile and tablet support
-* 🎯 Responsive design using CSS media queries
-
----
-
-## 🛠️ Technologies Used
-
-* **HTML5**
-* **CSS3**
-
-No JavaScript or frontend frameworks were used in this project.
-
----
-
-## 📱 Responsive Design
-
-The website is designed to adapt to different screen sizes.
-
-It supports:
-
-* 💻 Desktop
-* 📱 Tablet
-* 📱 Mobile
-
-Responsive behavior is implemented using **CSS media queries**.
-
----
-
-## 🚀 Getting Started
-
-To run the project locally:
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/fereshte-rahnama/English-learning-website-.git
+```text
+English-learning-website/
+│
+├── index.html
+├── css/
+│   └── style.css
+├── images/
+└── README.md
 ```
 
-### 2. Open the project
+## Screenshots
 
-Open the project folder in **VS Code**.
+*Add screenshots here if needed.*
 
-### 3. Run the website
+## Note
 
-Open `index.html` in your browser or use the **Live Server** extension in VS Code.
-
----
-
-## 🌐 Live Demo
-
-You can view the project here:
-
-https://fereshte-rahnama.github.io/English-learning-website-/
-
----
-
-## 🎯 Purpose
-
-This website was created as part of my **frontend development practice**.
-
-The main goal was to improve my understanding of HTML structure, CSS styling, layout techniques, and responsive web design.
-
----
-
-## 👩‍💻 Author
-
-**Fereshteh Rahnama**
-
-Frontend development practice project.
+This is a **frontend practice project** created for learning and portfolio development purposes. The educational content, courses, testimonials, and other information shown on the website are sample/demo content and do not represent a real educational service.
