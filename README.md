@@ -46,22 +46,16 @@ The main purpose of this project was to practice:
 * Improving spacing, typography, and visual hierarchy
 * Building a responsive educational website interface
 
-## Project Structure
-
-```text
-English-learning-website/
-│
-├── index.html
-├── css/
-│   └── style.css
-├── images/
-└── README.md
-```
 
 ## Screenshots
 
-*Add screenshots here if needed.*
 
 ## Note
 
 This is a **frontend practice project** created for learning and portfolio development purposes. The educational content, courses, testimonials, and other information shown on the website are sample/demo content and do not represent a real educational service.
+
+## Author
+
+**Fereshteh Rahnama**
+
+
