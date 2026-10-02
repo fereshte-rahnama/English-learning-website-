@@ -56,6 +56,6 @@ This is a **frontend practice project** created for learning and portfolio devel
 
 ## Author
 
-**Fereshteh Rahnama**
+**Fereshte Rahnama**
 
 
